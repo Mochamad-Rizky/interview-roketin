@@ -1,0 +1,40 @@
+.user__item {
+    margin-top: 1rem;
+}
+
+.user__item-profile img {
+    border-radius: 50%;
+    width: 50px;
+    margin-right: 1.25rem;
+}
+
+.user__item-biodata p {
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+.user__item-age span {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 1.25rem;
+}
+
+.user__item-gender span {
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    padding: 2px 5px;
+    display: inline-block;
+    background-color: #299ec4;
+    border-radius: 5px;
+}
+
+.user__item-country img {
+    margin: 0 1.25rem;
+    width: 35px;
+}
+
+.user__item-address span {
+    margin-left: 3rem;
+    display: inline-block;
+}
