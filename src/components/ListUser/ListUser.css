@@ -1,0 +1,17 @@
+.list-user {
+    padding: 2rem;
+}
+
+.list-user__table {
+    height: 500px;
+    display: block;
+    overflow-x: scroll;
+}
+
+.list-user__table::-webkit-scrollbar {
+    width: 10px;
+}
+
+.list-user__table::-webkit-scrollbar-thumb {
+    background: #888;
+}
