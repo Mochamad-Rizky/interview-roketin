@@ -1,0 +1,17 @@
+.header-dashboard__item {
+    background-color: #fff;
+    padding: 0.3rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.header-dashboard__item-description p {
+    margin-top: -10px;
+}
+
+.header-dashboard__item-icon i {
+    font-size: 2.5rem;
+}
