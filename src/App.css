@@ -1,0 +1,16 @@
+.member-dashboard {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 2rem 0;
+	background-color: #e3e3ef;
+}
+
+.member-dashboard__container {
+	background-color: #f3f3fd;
+	padding: 1rem;
+	border-radius: 5px;
+	width: 1000px;
+	box-shadow: 1px 1px 51px rgba(0, 0, 0, 0.3);
+}
