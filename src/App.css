@@ -1,3 +1,7 @@
+#root {
+	zoom: 80%;
+}
+
 .member-dashboard {
 	display: flex;
 	flex-direction: column;
